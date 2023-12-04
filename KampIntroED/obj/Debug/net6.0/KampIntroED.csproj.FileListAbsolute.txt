@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\bin\Debug\net6.0\KampIntroED.exe
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\bin\Debug\net6.0\KampIntroED.deps.json
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\bin\Debug\net6.0\KampIntroED.runtimeconfig.json
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\bin\Debug\net6.0\KampIntroED.dll
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\bin\Debug\net6.0\KampIntroED.pdb
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\KampIntroED.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\KampIntroED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\KampIntroED.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\KampIntroED.AssemblyInfo.cs
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\KampIntroED.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\KampIntroED.dll
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\refint\KampIntroED.dll
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\KampIntroED.pdb
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\KampIntroED.genruntimeconfig.cache
+C:\Users\ACER\Desktop\code\c#\windows form giriş\KampIntroED\KampIntroED\obj\Debug\net6.0\ref\KampIntroED.dll

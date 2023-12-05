@@ -9,6 +9,10 @@ namespace MyApp // Note: actual namespace depends on the project name.
         {
             DortIslem dortIslem = new DortIslem();
             dortIslem.Topla(5.6, 5.4);
+            dortIslem.cıkar(859,4);
+            dortIslem.bol(8, 3);
+            dortIslem.carp(8, 3);
+            
         }
     }
 }

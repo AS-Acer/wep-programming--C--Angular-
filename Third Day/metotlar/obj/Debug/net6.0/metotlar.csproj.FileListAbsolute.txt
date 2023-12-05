@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\bin\Debug\net6.0\metotlar.exe
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\bin\Debug\net6.0\metotlar.deps.json
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\bin\Debug\net6.0\metotlar.runtimeconfig.json
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\bin\Debug\net6.0\metotlar.dll
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\bin\Debug\net6.0\metotlar.pdb
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\metotlar.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfo.cs
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\metotlar.dll
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\refint\metotlar.dll
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\metotlar.pdb
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\metotlar.genruntimeconfig.cache
+C:\Users\ACER\Desktop\code\c#\windows form giriş\metotlar\metotlar\obj\Debug\net6.0\ref\metotlar.dll
